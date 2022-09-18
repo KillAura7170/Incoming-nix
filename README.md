@@ -19,10 +19,10 @@ Next open terminal in linux and type
 After thats done go in build/libs folder and use Incoming-1.2.8-nix-release.jar
 
 # How Incoming Started:
-Incoming started as a joke I (OP_Killaura) got the bowbomb beta code and I put it in oyvey and as a joke i renamed the client as Incoming. After some time client got leaked so I added more modules and it was doing well for a private client. After sometime it got leaked again so i made it a public client. Client will be updated and will resive support.
+FROM THE OLD REPO ( Incoming started as a joke I (OP_Killaura) got the bowbomb beta code and I put it in oyvey and as a joke i renamed the client as Incoming. After some time client got leaked so I added more modules and it was doing well for a private client. After sometime it got leaked again so i made it a public client. Client will be updated and will resive support. ) Well that went well... (it did not lol). So now its a private client for team nix.
 
 # Support
-If u find any bugs or issues while using the client pls mag me on discord it is KillAura#7170. And BerryPGz he help fix the GUI and dum dum more stuff :D
+If u find any bugs or issues while using the client pls dm me or crumpetalpaca on Element it is @killaura:matrix.org or @crumpetalpaca:matrix.org. And BerryPGz he help fix the GUI and dum dum more stuff :D
 
 # How To Open ClickGui
 To open clickgui just press rshift or you can type this is chat ".bind clickgui rshift" this will bind your clickgui to rshift and if you want you can change it from gui too.
