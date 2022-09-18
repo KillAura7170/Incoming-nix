@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.incoming.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: incoming_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: me.alpha432.oyvey.mixin.IncomingLoader
+

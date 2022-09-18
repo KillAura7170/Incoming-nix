@@ -1,0 +1,88 @@
+FD: me/alpha432/oyvey/mixin/mixins/MixinGuiNewChat/drawnChatLines me/alpha432/oyvey/mixin/mixins/MixinGuiNewChat/field_146253_i
+FD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/mainModel me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/field_77045_g
+FD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/renderMarker me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/field_188323_j
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/farPlaneDistance me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/field_78530_s
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/cameraZoom me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/field_78503_V
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/cameraYaw me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/field_78502_W
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/cameraPitch me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/field_78509_X
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/frameCount me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/field_175084_ae
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/debugViewDirection me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/field_175079_V
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/rendererUpdateCount me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/field_78529_t
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/debugView me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/field_175078_W
+FD: me/alpha432/oyvey/mixin/mixins/MixinItemRenderer/mc me/alpha432/oyvey/mixin/mixins/MixinItemRenderer/field_78455_a
+FD: me/alpha432/oyvey/mixin/mixins/MixinRenderEnderCrystal/ENDER_CRYSTAL_TEXTURES me/alpha432/oyvey/mixin/mixins/MixinRenderEnderCrystal/field_110787_a
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/posX me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70165_t
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/posY me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70163_u
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/posZ me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70161_v
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/motionX me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70159_w
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/motionY me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70181_x
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/motionZ me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70179_y
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/rotationYaw me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70177_z
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/rotationPitch me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70125_A
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/onGround me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70122_E
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/noClip me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70145_X
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/prevDistanceWalkedModified me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70141_P
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/world me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70170_p
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/pistonDeltas me/alpha432/oyvey/mixin/mixins/MixinEntity/field_191505_aI
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/pistonDeltasGameTime me/alpha432/oyvey/mixin/mixins/MixinEntity/field_191506_aJ
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/isInWeb me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70134_J
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/stepHeight me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70138_W
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/collidedHorizontally me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70123_F
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/collidedVertically me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70124_G
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/collided me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70132_H
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/distanceWalkedModified me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70140_Q
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/distanceWalkedOnStepModified me/alpha432/oyvey/mixin/mixins/MixinEntity/field_82151_R
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/fire me/alpha432/oyvey/mixin/mixins/MixinEntity/field_190534_ay
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/nextStepDistance me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70150_b
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/nextFlap me/alpha432/oyvey/mixin/mixins/MixinEntity/field_191959_ay
+FD: me/alpha432/oyvey/mixin/mixins/MixinEntity/rand me/alpha432/oyvey/mixin/mixins/MixinEntity/field_70146_Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinBlock/getBlockHardness (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F me/alpha432/oyvey/mixin/mixins/MixinBlock/func_176195_g (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/renderModel (Lnet/minecraft/entity/EntityLivingBase;FFFFFF)V me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_77036_a (Lnet/minecraft/entity/EntityLivingBase;FFFFFF)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/renderLayers (Lnet/minecraft/entity/EntityLivingBase;FFFFFFF)V me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_177093_a (Lnet/minecraft/entity/EntityLivingBase;FFFFFFF)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/unsetBrightness ()V me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_177091_f ()V
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/setDoRenderBrightness (Lnet/minecraft/entity/EntityLivingBase;F)Z me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_177090_c (Lnet/minecraft/entity/EntityLivingBase;F)Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/getSwingProgress (Lnet/minecraft/entity/EntityLivingBase;F)F me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_77040_d (Lnet/minecraft/entity/EntityLivingBase;F)F
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/interpolateRotation (FFF)F me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_77034_a (FFF)F
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/renderLivingAt (Lnet/minecraft/entity/EntityLivingBase;DDD)V me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_77039_a (Lnet/minecraft/entity/EntityLivingBase;DDD)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/handleRotationFloat (Lnet/minecraft/entity/EntityLivingBase;F)F me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_77044_a (Lnet/minecraft/entity/EntityLivingBase;F)F
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/applyRotations (Lnet/minecraft/entity/EntityLivingBase;FFF)V me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_77043_a (Lnet/minecraft/entity/EntityLivingBase;FFF)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/prepareScale (Lnet/minecraft/entity/EntityLivingBase;F)F me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_188322_c (Lnet/minecraft/entity/EntityLivingBase;F)F
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/setScoreTeamColor (Lnet/minecraft/entity/EntityLivingBase;)Z me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_177088_c (Lnet/minecraft/entity/EntityLivingBase;)Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/unsetScoreTeamColor ()V me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_180565_e ()V
+MD: me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/doRender (Lnet/minecraft/entity/EntityLivingBase;DDDFF)V me/alpha432/oyvey/mixin/mixins/MixinRenderLivingBase/func_76986_a (Lnet/minecraft/entity/EntityLivingBase;DDDFF)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/orientCamera (F)V me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/func_78467_g (F)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/hurtCameraEffect (F)V me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/func_78482_e (F)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/applyBobbing (F)V me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/func_78475_f (F)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/enableLightmap ()V me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/func_180436_i ()V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/disableLightmap ()V me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/func_175072_h ()V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/updateFogColor (F)V me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/func_78466_h (F)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/setupFog (IF)V me/alpha432/oyvey/mixin/mixins/MixinEntityRenderer/func_78468_a (IF)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinItemRenderer/renderItemInFirstPerson (Lnet/minecraft/client/entity/AbstractClientPlayer;FFLnet/minecraft/util/EnumHand;FLnet/minecraft/item/ItemStack;F)V me/alpha432/oyvey/mixin/mixins/MixinItemRenderer/func_187457_a (Lnet/minecraft/client/entity/AbstractClientPlayer;FFLnet/minecraft/util/EnumHand;FLnet/minecraft/item/ItemStack;F)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinItemRenderer/renderArmFirstPerson (FFLnet/minecraft/util/EnumHandSide;)V me/alpha432/oyvey/mixin/mixins/MixinItemRenderer/func_187456_a (FFLnet/minecraft/util/EnumHandSide;)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinFontRenderer/renderString (Ljava/lang/String;FFIZ)I me/alpha432/oyvey/mixin/mixins/MixinFontRenderer/func_180455_b (Ljava/lang/String;FFIZ)I
+MD: me/alpha432/oyvey/mixin/mixins/MixinFontRenderer/renderStringAtPos (Ljava/lang/String;Z)V me/alpha432/oyvey/mixin/mixins/MixinFontRenderer/func_78255_a (Ljava/lang/String;Z)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/isSprinting ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70051_ag ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/isRiding ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_184218_aH ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/isSneaking ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70093_af ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/setEntityBoundingBox (Lnet/minecraft/util/math/AxisAlignedBB;)V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_174826_a (Lnet/minecraft/util/math/AxisAlignedBB;)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/getEntityBoundingBox ()Lnet/minecraft/util/math/AxisAlignedBB; me/alpha432/oyvey/mixin/mixins/MixinEntity/func_174813_aQ ()Lnet/minecraft/util/math/AxisAlignedBB;
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/resetPositionToBB ()V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_174829_m ()V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/updateFallState (DZLnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;)V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_184231_a (DZLnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/canTriggerWalking ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70041_e_ ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/isInWater ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70090_H ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/isBeingRidden ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_184207_aI ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/getControllingPassenger ()Lnet/minecraft/entity/Entity; me/alpha432/oyvey/mixin/mixins/MixinEntity/func_184179_bs ()Lnet/minecraft/entity/Entity;
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/playSound (Lnet/minecraft/util/SoundEvent;FF)V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_184185_a (Lnet/minecraft/util/SoundEvent;FF)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/doBlockCollisions ()V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_145775_I ()V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/isWet ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70026_G ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/playStepSound (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/Block;)V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_180429_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/Block;)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/getSwimSound ()Lnet/minecraft/util/SoundEvent; me/alpha432/oyvey/mixin/mixins/MixinEntity/func_184184_Z ()Lnet/minecraft/util/SoundEvent;
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/playFlySound (F)F me/alpha432/oyvey/mixin/mixins/MixinEntity/func_191954_d (F)F
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/makeFlySound ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_191957_ae ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/addEntityCrashInfo (Lnet/minecraft/crash/CrashReportCategory;)V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_85029_a (Lnet/minecraft/crash/CrashReportCategory;)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/dealFireDamage (I)V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70081_e (I)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/setFire (I)V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70015_d (I)V
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/getFireImmuneTicks ()I me/alpha432/oyvey/mixin/mixins/MixinEntity/func_190531_bD ()I
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/isBurning ()Z me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70027_ad ()Z
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/getMaxInPortalTime ()I me/alpha432/oyvey/mixin/mixins/MixinEntity/func_82145_z ()I
+MD: me/alpha432/oyvey/mixin/mixins/MixinEntity/move (Lnet/minecraft/entity/MoverType;DDD)V me/alpha432/oyvey/mixin/mixins/MixinEntity/func_70091_d (Lnet/minecraft/entity/MoverType;DDD)V

@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "incoming",
+    "name": "Incoming",
+    "description": "uwu huh",
+    "version": "1.2.7",
+    "mcversion": "1.12.2",
+    "logoFile": "incoming.png",
+    "url": "https://youtube.com/nigger/",
+    "updateUrl": "",
+    "authorList": [
+      "OP_Killaura"
+      "3arthqu4ke, oHare, Crystallinqq, Megyn (Made Phobos)"
+      "Alpha432 (Made OyVey)"	
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
