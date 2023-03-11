@@ -28,4 +28,3 @@ If u find any bugs or issues while using the client pls dm me or crumpetalpaca o
 To open clickgui just press rshift or you can type this is chat ".bind clickgui rshift" this will bind your clickgui to rshift and if you want you can change it from gui too.
 
 # i skided everything :^)))))))))))
-jk
